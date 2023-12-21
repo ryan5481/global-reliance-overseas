@@ -1,2 +1,3 @@
-/client/public/uploads/*
 .env
+/client/.next
+/client/node_modules
